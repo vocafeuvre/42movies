@@ -1,4 +1,4 @@
-## Faux iMDB API
+## 42MOVIES API
 API replicating simple features of iMDB. Written in Node.js, using Express. Tests are written in Mocha-Chai.
 
 ### How to use
